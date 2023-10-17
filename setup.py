@@ -8,14 +8,14 @@ def read(filename):
 
 # python3 setup.py install
 setup(
-	name="uniaddon",
-	version="0.0.1.070923",
+	name="structure",
+	version="0.0.171023",
 	author="stpatriarch",
 	author_email="chinaryannarek@gmail.com",
-	description="United additional funitions for any commerical software.",
+	description="Universal Add Oned",
 	license="GNU General Public License v3.0",
 	keywords="",
-	url="",
+	url="https://github.com/StPatriarch/UniAddOn",
 	packages=find_packages(),
 	long_description=read('README.md'),
 	classifiers=[
